@@ -4,7 +4,7 @@ Every HTML element is its own box – with its own spacing and a border. This is
 
 In this course, you'll use CSS and the Box Model to create your own Rothko-style rectangular art pieces.
 
-**Step 1**
+## Step 1
 
 By now, you should be familiar with the basic elements an HTML page should have.
 
